@@ -1,0 +1,94 @@
+.about{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.about .col-lg-6{
+    
+}
+.about .col-lg-6 .count{
+background-color:  #EA1826;
+width: 90%;
+color: #fff;
+
+}
+.about .col-lg-6 .count i{
+    padding: 40px;
+    font-size: 50px;
+}
+/* .about .col-lg-6.count div span{
+    font-size: 100px;
+    font-weight: 900;
+} */
+.about .col-lg-6 .count div h2{
+    font-size: 34px;
+    font-weight: 800;
+}
+.about .col-lg-6 .count div h3{
+    font-size: 40px;
+    font-weight: 800;
+  
+}
+.about .col-lg-6 h1{
+    color: #2d2d2d;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: ui-rounded;
+}
+.about .col-lg-6 p {
+    color: #000000;
+    font-size: 32px;
+    line-height: 29px;
+    letter-spacing: 1px;
+    font-family: emoji;
+}
+.about .col-lg-6 .col-lg-6 i{
+    font-size: 30px;
+    padding: 27px;
+    color: #ff313f;
+}
+.about .col-lg-6 .col-lg-6 span{
+    font-size: 26px;
+    padding: 11px;
+    font-weight: 500;
+    color: #1f488a;
+}
+.about .col-lg-6 .sign .signature{
+    border-radius: 30px;
+    margin: 6px;
+    height: 60px;
+    width: 60px;
+    /* height:"60" width="60"  */
+}
+.about .col-lg-6 .sign div h4{
+    font-size: 20px; 
+    color: #102039;
+    /* padding: 10px; */
+}
+.about .col-lg-6 .sign div{
+    padding: 0px 20px;
+}
+.about .col-lg-6 .sign div h5{
+    /* padding: 10px; */
+    color: #898686;
+}
+.about .col-lg-6 .sign img{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

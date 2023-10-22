@@ -1,0 +1,106 @@
+.back-img {}
+
+.back-color {
+    background: #03122980;
+
+}
+
+.locat-details {
+    /* z-index: 1; */
+    opacity: 2;
+    display: none;
+}
+
+.locat-details .col-lg-3 {
+    background-color: #102039;
+    color: #fff;
+    font-size: 17px;
+    margin-top: 25px;
+    height: 110px;
+}
+
+
+main .bg-img-1{
+    background-image: url(./Images/bg-main.jpg);
+}
+main .bg-img-2{
+    background-image: url(./Images/bg-img-2.jpg);
+}
+main .bg-img-3{
+    background-image: url(./Images/bg-img-3.jpg);
+}
+
+main .carousel-img{
+    height: 74vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.locat-details .col-lg-3 i {
+    display: none;
+  
+}
+
+
+
+.locat-details .change {
+    background-color: #EA1826 !important;
+}
+
+main .carousel-item img {
+    /* position: relative;
+    bottom: 543px;
+    left: 0px; */
+
+    height: 550px;
+}
+main .carousel-caption h5{
+    font-size: 40px;
+    font-weight: 400;
+}
+main .carousel-caption h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+.commercial-info{
+    position: relative;
+    top: -20px;
+    margin-bottom: 78px;
+}
+main .commercial-info .commercial .col-lg-5{
+    background-color: #4d535c;
+    color: #fff;
+}
+
+main .commercial-info .commercial .col-lg-4 :hover{
+    .col-lg-5{
+        background: #EA1826 ;
+    }
+   
+}
+
+main .commercial-info .commercial .col-lg-5 i{
+    padding: 30px;
+    font-size: 36px;
+}
+main .commercial-info .commercial .col-lg-5 h3{
+    font-weight: 400;
+    font-family: fangsong;
+}
+main .commercial-info .commercial .col-lg-7 p {
+    padding: 41px 0px 0px 0px;
+    color: #000000;
+    font-size: 23px;
+}
+main .commercial-info .commercial .col-lg-7 a{
+    color: #102039;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
